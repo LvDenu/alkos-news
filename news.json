@@ -1,0 +1,25 @@
+{
+  "entries": [
+    {
+      "type": "update",
+      "title": "Version 2.6.2 ist da!",
+      "text": "Free- und Premium-Version verfügbar. Die Free Version ist jetzt im Microsoft Store erhältlich.",
+      "date": "11.05.2026",
+      "color": "green"
+    },
+    {
+      "type": "tip",
+      "title": "Tipp: Festplatten-Test",
+      "text": "Führen Sie den Festplatten-Gesundheitscheck einmal im Jahr durch — so erkennen Sie Probleme bevor Daten verloren gehen.",
+      "date": "11.05.2026",
+      "color": "blue"
+    },
+    {
+      "type": "info",
+      "title": "ALKOS jetzt auch für Smartphones",
+      "text": "Wir reparieren ab sofort auch iPhones und Android-Geräte. Einfach vorbeikommen oder anrufen!",
+      "date": "11.05.2026",
+      "color": "green"
+    }
+  ]
+}
