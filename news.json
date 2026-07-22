@@ -1,24 +1,24 @@
 {
   "entries": [
     {
-      "type": "warning",
-      "title": "Windows 10: Support endet Oktober 2026",
-      "text": "Ab dem 14. Oktober 2026 erhält Windows 10 keine Sicherheitsupdates mehr. Danach wird Ihr Computer angreifbar. Wir empfehlen rechtzeitig auf Windows 11 umzusteigen — sprechen Sie uns gerne an.",
-      "date": "11.05.2026",
-      "color": "yellow"
+      "type": "update",
+      "title": "Version 3.1.1 kommt bald",
+      "text": "Freuen Sie sich auf Version 3.1.1 mit einem deutlich verbesserten Assistenten. Weitere Informationen zur Veröffentlichung folgen in Kürze.",
+      "date": "22.07.2026",
+      "color": "green"
     },
     {
-      "type": "info",
-      "title": "Vorsicht: Gefälschte Microsoft-Anrufe",
-      "text": "Betrüger rufen an und behaupten, Ihr Computer sei infiziert. Microsoft ruft Sie niemals unaufgefordert an. Legen Sie sofort auf und rufen Sie uns an falls Sie unsicher sind.",
-      "date": "11.05.2026",
+      "type": "warning",
+      "title": "Windows 10 Sicherheitsupdates enden im Oktober 2026",
+      "text": "Die einjährige Verlängerung der Sicherheitsupdates für Windows 10 endet am 13. Oktober 2026. Wir empfehlen Ihnen rechtzeitig auf Windows 11 umzusteigen und beraten Sie gerne zur Kompatibilität Ihres Computers.",
+      "date": "22.07.2026",
       "color": "yellow"
     },
     {
       "type": "tip",
-      "title": "Tipp: Wichtige Daten sichern",
-      "text": "Fotos, Dokumente und Passwörter gehören regelmäßig auf einen USB-Stick oder eine externe Festplatte gesichert. Bei einem Festplattenausfall sind ungesicherte Daten oft unwiederbringlich verloren.",
-      "date": "11.05.2026",
+      "title": "Windows 11 jetzt auf Aktualität prüfen",
+      "text": "Auch ältere Ausgaben von Windows 11 erhalten nicht unbegrenzt Sicherheitsupdates. Prüfen Sie unter Einstellungen und Windows Update, ob eine aktuelle Version installiert ist. Wir helfen Ihnen gerne bei der Prüfung und Aktualisierung.",
+      "date": "22.07.2026",
       "color": "blue"
     }
   ]
