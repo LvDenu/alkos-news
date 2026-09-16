@@ -2,6 +2,13 @@
   "entries": [
     {
       "type": "update",
+      "title": "Version 1.3.5: Neuigkeiten-Ansicht überarbeitet",
+      "text": "Ein kleines Update mit Fokus auf genau diese Ansicht hier:<br><br>📐 <strong>Kompakter</strong> — alle aktuellen Meldungen passen jetzt auf eine Seite, ohne dass Sie scrollen müssen.<br><br>👆 <strong>Klarer erkennbar</strong> — jede Meldung zeigt jetzt deutlich \"Mehr lesen →\", damit sofort klar ist, wo Sie für den vollständigen Text klicken können.<br><br>Das Update installiert sich wie gewohnt automatisch.",
+      "date": "16.09.2026",
+      "color": "green"
+    },
+    {
+      "type": "update",
       "title": "Version 1.3.4 ist da: Dunkles Design, Tests laufen jetzt im Hintergrund",
       "text": "Diese Version bringt spürbare Verbesserungen für den Alltag:<br><br>🌙 <strong>Dunkles Design</strong> — umschaltbar über das Mond-Symbol oben rechts in der Titelleiste, Ihre Wahl wird gemerkt.<br><br>⏱️ <strong>Festplatten- und Arbeitsspeicher-Test laufen jetzt im Hintergrund</strong> — Sie müssen nicht mehr warten, bis der Test fertig ist. Schließen Sie das Fenster einfach und nutzen Sie die App normal weiter, eine kleine Anzeige unten zeigt den Fortschritt.<br><br>🔔 <strong>Benachrichtigung bei Testende</strong> — Sie erfahren automatisch, wenn ein Test abgeschlossen ist, auch wenn Sie gerade etwas anderes machen.<br><br>🛡️ Festplatten- und Arbeitsspeicher-Test laufen nie gleichzeitig, damit Ihr Computer dabei nicht überlastet wird.<br><br>📋 Übersichtlichere Darstellung bei Computer-Info, Autostart, Diensten und der Wartungsseite — weniger Scrollen, klarer sortiert.<br><br>📰 Diese Neuigkeiten-Ansicht wurde ebenfalls überarbeitet.<br><br>Das Update installiert sich wie gewohnt automatisch.",
       "date": "16.09.2026",
